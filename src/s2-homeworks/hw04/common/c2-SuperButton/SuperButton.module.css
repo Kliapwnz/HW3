@@ -14,6 +14,11 @@
 }
 
 .secondary {
+    width: 167px;
+    height: 30px;
+    left: 574px;
+    top: 418px;
+
 }
 
 .default {
@@ -36,14 +41,29 @@
 
 .default:hover {
     background: #0080ff;
+    width: 167px;
+    height: 30px;
+    left: 574px;
+    top: 261px;
+
 }
 
 .red:hover {
     background: #ff1a47;
+    width: 167px;
+    height: 30px;
+    left: 574px;
+    top: 261px;
+
 }
 
 .secondary:hover {
     background: #E5F0FA;
+    width: 167px;
+    height: 30px;
+    left: 574px;
+    top: 418px;
+
 }
 
 
