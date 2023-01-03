@@ -13,14 +13,8 @@
 }
 
 .input {
-    position: absolute;
-    left: 0%;
-    right: 0%;
-    top: 0%;
-    bottom: 0%;
-    border: 1px solid #CC0000;
+    border: 1px solid #D1D1D1;
     border-radius: 5px;
-    box-sizing: border-box;
 }
 
 .input:focus {
@@ -28,20 +22,18 @@
 }
 
 .errorInput {
+    border-color: red;
 
 }
 
 .button {
-    display: flex;
-    flex-direction: row;
-    justify-content: center;
     align-items: center;
     padding: 5px 24px;
     gap: 10px;
     background: #0066CC;
     opacity: 0.5;
     border-radius: 3px;
-    color: black;
+    color: white;
 }
 
 .button:focus {
