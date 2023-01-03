@@ -14,23 +14,30 @@
 }
 
 .default:hover {
+    background: #0080ff;
 }
 
 .red:hover {
+    background: #ff1a47;
 }
 
 .secondary:hover {
+    background: #E5F0FA;
 }
 
 
 .default:active {
+    background: #0059b3;
 }
 
 .secondary:active {
+    background: #c9e5ff;
 }
 
 .red:active {
+    background: #b31232;
 }
 
 .button:disabled {
+    cursor: default;
 }

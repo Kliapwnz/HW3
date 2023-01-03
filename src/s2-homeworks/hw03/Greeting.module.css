@@ -13,8 +13,10 @@
 }
 
 .input {
+    box-sizing: border-box;
     border: 1px solid #D1D1D1;
     border-radius: 5px;
+
 }
 
 .input:focus {
