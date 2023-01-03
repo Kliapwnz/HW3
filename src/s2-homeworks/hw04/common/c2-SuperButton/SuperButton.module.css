@@ -1,4 +1,16 @@
 .button {
+    overflow: hidden;
+    padding: 5px 24px;
+
+    border-radius: 3px;
+    border: none;
+
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 20px;
+    cursor: pointer;
 }
 
 .disabled {
@@ -14,6 +26,9 @@
 }
 
 .secondary {
+    color: #0866CC;
+    background: transparent;
+    border: 1px solid #0066CC;
     width: 167px;
     height: 30px;
     left: 574px;
@@ -22,7 +37,7 @@
 }
 
 .default {
-    background: #0066CC;
+    background: #06c;
     width: 132px;
     height: 30px;
     left: 574px;
